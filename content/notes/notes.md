@@ -4,6 +4,14 @@
 
 Unity can be installed from [https://unity3d.com/](https://unity3d.com/).
 
+# [Video](https://youtu.be/HVZ6gwh2O9A)
+
+This is unedited, an edited version will be coming through soon!
+
+# [Example Code](https://github.com/hackersatcambridge/workshop-unity/raw/master/example/ExampleProject.zip)
+
+Just unzip the zip!
+
 # The Answer for Everything
 
 ## [www.google.com](https://www.google.com)
